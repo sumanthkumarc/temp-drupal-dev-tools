@@ -1,6 +1,7 @@
 # temp-drupal-dev-tools
 
-Temporarily use the drush, drupal console and composer.
+Temporarily use the drush, drupal console and composer by following below steps.
+The files in this repo are just there in case they are needed!!!!. Can skip the curl step if you download these files from this repo.
 
 <h2>Drupal Console:</h2>
 
