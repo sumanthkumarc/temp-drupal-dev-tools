@@ -2,7 +2,7 @@
 
 Temporarily use the drush, drupal console and composer.
 
-Drupal Console:
+<h2>Drupal Console:</h2>
 
 download the drupal console php archive file
 
@@ -20,7 +20,7 @@ check if its working
 
 ```dc about```
 
-Drush:
+<h2>Drush:</h2>
 
 Download the drush phar file. This gives drush 8, supports d6,d7,d8
 
@@ -38,7 +38,7 @@ check if its working
 
 ```dru status```
 
-Composer:
+<h2>Composer:</h2>
 
 Download the composer phar file.
 
