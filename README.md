@@ -4,7 +4,7 @@ Temporarily use the drush, drupal console and composer.
 
 Drupal Console:
 // download the drupal console php archive file
-curl https://drupalconsole.com/installer -LO drupal.phar
+``` curl https://drupalconsole.com/installer -LO drupal.phar```
 // set executable on your phar file
 chmod +x drupal.phar
 // Set alias to use
