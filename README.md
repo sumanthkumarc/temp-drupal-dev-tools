@@ -37,7 +37,7 @@ Set alias to use
 
 check if its working
 
-```dru status```
+```drush status```
 
 <h2>Composer:</h2>
 
@@ -55,4 +55,4 @@ Set alias to use
 
 check if its working
 
-```comp -v```
+```composer -v```
